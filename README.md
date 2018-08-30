@@ -39,3 +39,8 @@ At full-time, we'll have a quick demo of our apps, discuss the pros and cons of 
 
 1. Switch who is typing in the pair, to make sure everyone gets time
 2. Use post-it notes to keep ideas / difficulties / observations to discuss later on
+
+### Some helpful reading
+
+https://medium.com/@ralf.stuckert/getting-started-with-kotlin-react-c5f3b079a8bf
+
